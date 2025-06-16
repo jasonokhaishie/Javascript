@@ -1,0 +1,1 @@
+alert("DO you accept the rules?")
